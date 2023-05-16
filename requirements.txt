@@ -1,0 +1,4 @@
+pure-python-adb
+adb-shell
+adb-shell[async]
+adb-shell[usb]
